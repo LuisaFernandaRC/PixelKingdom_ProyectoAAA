@@ -2163,4 +2163,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
 [2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
 [2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module Renderer (20)
-[2024.06.20-06.49.23:014][364]LogM
+[2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.06.20-06.49.23:014][364]LogPakFile: Destroying PakPlatformFile
+[2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.06.20-06.49.23:014][364]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.06.20-06.49.23:015][364]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.06.20-06.49.23:211][364]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.20-06.49.23:244][364]LogExit: Exiting.
+[2024.06.20-06.49.23:934][364]Log file closed, 06/20/24 00:49:23
