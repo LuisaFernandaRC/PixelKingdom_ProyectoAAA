@@ -1,0 +1,6 @@
+2024/06/07-10:37:46.193 36a0 Creating DB D:/david/musica/trabajos/Desarroollo de proyectoo AAA/p2/PixelKingdom_ProyectoAAA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/06/07-10:37:46.200 36a0 Reusing MANIFEST D:/david/musica/trabajos/Desarroollo de proyectoo AAA/p2/PixelKingdom_ProyectoAAA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/07-10:38:35.170 3114 Level-0 table #5: started
+2024/06/07-10:38:35.177 3114 Level-0 table #5: 1166 bytes OK
+2024/06/07-10:38:35.178 3114 Delete type=0 #3
+2024/06/07-10:38:35.178 3114 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
